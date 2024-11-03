@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:netflix_ui/homepage.dart';
+import 'package:netflix_ui/screens/Splash.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Netflix_ui',
       themeMode: ThemeMode.dark,
-      home: Homepage(),
+      home: SplashScreen(),
     );
   }
 }

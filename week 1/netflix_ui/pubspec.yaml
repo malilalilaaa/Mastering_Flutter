@@ -76,14 +76,13 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-    - family: Bebas Neue
+    - family: BebasNeue
       fonts:
-        - asset: fonts/Bebas Neue Bold 700.otf
-        - asset: fonts/Bebas Neue Bold 400.otf
-        - asset: fonts/Bebas Neue Bold 300.otf
-        - asset: fonts/Bebas Neue Bold 200.otf
-        - asset: fonts/Bebas Neue Bold 100.otf
-
+        - asset: assets/fonts/Bebas-Neue-Bold-700.otf
+        - asset: assets/fonts/Bebas-Neue-Regular-400.ttf
+        - asset: assets/fonts/Bebas-Neue-Book-300.otf
+        - asset: assets/fonts/Bebas-Neue-Light-200.otf
+        - asset: assets/fonts/Bebas-Neue-Thin-100.otf
   #         style: italic
   #   - family: Trajan Pro
   #     fonts:
